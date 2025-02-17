@@ -34,6 +34,6 @@ Welcome to my **Data Projects** repository! This space showcases four hands-on p
 
 ## 🔗 Connect with Me
 📧 **Email:** jgarcia102099@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/juan-garcia-ab47442b9/](https://www.linkedin.com/in/juan-garcia-ab47442b9/)  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/juanddgarcia/](https://www.https://www.linkedin.com/in/juanddgarcia/)  
 🔗 **GitHub:** [github.com/JuanDivine](https://github.com/JuanDivine)  
 
